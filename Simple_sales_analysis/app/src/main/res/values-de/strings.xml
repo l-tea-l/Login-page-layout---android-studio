@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Verkaufsanalyse</string>
+    <string name="E1">Verkaufsplan </string>
+    <string name="E2">Verkaufsfakten </string>
+    <string name="E3">Die Werktage (der plan) </string>
+    <string name="E4">Die Werktage (die tatsache) </string>
+    <string name="T1">Verkaufsprognose (%)</string>
+    <string name="T2">Verkaufsfakten (%) </string>
+    <string name="T3">Verkaufsplan für einen Tag </string>
+    <string name="Toost">aufgezeichnet </string>
+
+</resources>
