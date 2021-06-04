@@ -11,14 +11,5 @@
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
-        <item name="shapeAppearanceSmallComponent">@style/Widget.MyApp.SmallShapeAppearance</item>
-
-    </style>
-
-    <style name="Widget.MyApp.SmallShapeAppearance" parent="ShapeAppearance.MaterialComponents.SmallComponent">
-    <item name="cornerFamilyTopLeft">rounded</item>
-    <item name="cornerFamilyBottomRight">cut</item>
-    <item name="cornerSizeTopLeft">20dp</item>
-    <item name="cornerSizeBottomRight">15dp</item>
     </style>
 </resources>
